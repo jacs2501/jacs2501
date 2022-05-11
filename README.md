@@ -10,9 +10,6 @@ Si quieres saber más de mí te dejo mi [Linkedin](https://www.linkedin.com/in/j
 ![](https://komarev.com/ghpvc/?username=jacs2501&color=blue)
 
 
-
-Tecnologías que utilizo:
-
 ### Sistemas operativos con los que trabajo
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
