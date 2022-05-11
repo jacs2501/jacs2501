@@ -5,7 +5,7 @@ Soy Juan Antonio, me encanta aprender a usar nuevas tecnologías e implementarla
 Actualmente me encuentro desarrollando una [prueba piloto de creación de un NOC](https://github.com/jacs2501/Creacion_NOC) en un servidor propio.
 Además estoy finalizando un máster en ciberseguridad. Y por si fuera poco me acabo de iniciar en el mundo del cloud compouting mediante un curso online.
 
-Si quieres saber más de mí te dejo mi [Linkedin](https://www.linkedin.com/in/juan-antonio-cejudo-algar/).
+Si quieres saber más de mí te dejo mi [LinkedIn](https://www.linkedin.com/in/juan-antonio-cejudo-algar/).
 
 ![](https://komarev.com/ghpvc/?username=jacs2501&color=blue)
 
