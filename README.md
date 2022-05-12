@@ -73,7 +73,7 @@ Si quieres saber más de mí te dejo mi [LinkedIn](https://www.linkedin.com/in/j
 ## Otras plataformas:
 [![Reddit](https://img.shields.io/badge/Reddit-jacs2501-FF4500?style=?style=flat&logo=reddit&logoColor=white&labelColor=101010)](https://www.reddit.com/user/jacs2501)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Juan_Antonio-FE7A16?style=?style=flat&logo=stackoverflow&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/284904/jacs2501)
-<a href="https://stackexchange.com/users/25261760"><img src="https://stackexchange.com/users/flair/25261760.png" width="208" height="58" alt="perfil para jacs2501 en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad" title="perfil para jacs2501 en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad"></a>
+
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
