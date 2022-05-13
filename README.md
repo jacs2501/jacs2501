@@ -67,7 +67,7 @@ Si quieres saber más de mí te dejo mi [LinkedIn](https://www.linkedin.com/in/j
 ## Mis redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Antonio_Cejudo-0077B5?style=?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-antonio-cejudo-algar/)
-[![Instagram](https://img.shields.io/badge/Instagram-@juanfitpro-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/juanfitpro)
+[![Instagram](https://img.shields.io/badge/Instagram-@juantechpro-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/juantechpro)
 [![Twitter](https://img.shields.io/badge/Twitter-@b4dusb-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/b4dusb)
 
 ## Otras plataformas:
